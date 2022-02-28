@@ -3,6 +3,7 @@
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
 published by O'Reilly Media
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Muhammaddai/pydata-book/HEAD)
 
 ## IPython Notebooks:
 
